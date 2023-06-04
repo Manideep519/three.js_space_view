@@ -1,3 +1,4 @@
+## Installation
 ```bash
 # Install dependencies (only the first time)
 npm install
@@ -9,6 +10,6 @@ npm run dev
 npm run build
 ```
 
-# Live preview in github pages
+## Live preview in github pages
 
 https://manideep519.github.io/three.js_space_view/
